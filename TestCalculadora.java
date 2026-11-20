@@ -25,10 +25,12 @@ public class TestCalculadora {
 		
 		double r4;
 		
-		r4 = c1.dividir(20, 4);
+		r4 = c1.dividir(20, 5);
 		System.out.println("Resultado dividir: " + r4);
 		
-		
+		double r5;
+		r5 = c1.promediar(10, 8, 9);
+		System.out.println("Resultado promediar: " + r5);
 			 
 		
 	}
