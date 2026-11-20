@@ -23,6 +23,11 @@ public class TestCalculadora {
 		r3 = c1.multiplicar(5, 10);
 		System.out.println("Resultado multiplicar: "+ r3);
 		
+		double r4;
+		
+		r4 = c1.dividir(20, 4);
+		System.out.println("Resultado dividir: " + r4);
+		
 		
 			 
 		
